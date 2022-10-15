@@ -7,7 +7,6 @@ import {
   FoodTabsList,
 } from "./styles/styles";
 import { Container, Box, Typography } from "@mui/material";
-import FoodImageSmall from "../components/Main/FoodImageSmall";
 import FoodCarousel from "../components/FoodCarousel/FoodCarousel";
 
 const ExploreFoods = () => {

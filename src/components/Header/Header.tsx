@@ -1,4 +1,4 @@
-import { HeaderContainer, SearchFieldContainer } from "./styles/Header.styles";
+import { HeaderContainer } from "./styles/Header.styles";
 import { Typography, Box } from "@mui/material";
 import { SearchInput } from "./styles/HeaderStyles";
 import NotificationsActiveOutlinedIcon from "@mui/icons-material/NotificationsActiveOutlined";

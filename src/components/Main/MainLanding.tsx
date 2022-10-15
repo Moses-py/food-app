@@ -1,8 +1,7 @@
-import {Box} from "@mui/material"
-import FoodImageSmall from "./FoodImageSmall"
-import ImageRight from './ImageRight'
-import LandingText from './LandingText'
-import { MainContainer } from './styles/Main.styles'
+import { Box } from "@mui/material";
+import ImageRight from "./ImageRight";
+import LandingText from "./LandingText";
+import { MainContainer } from "./styles/Main.styles";
 
 const MainLanding = () => {
   return (
@@ -12,8 +11,7 @@ const MainLanding = () => {
         <ImageRight />
       </MainContainer>
     </Box>
+  );
+};
 
-  )
-}
-
-export default MainLanding
+export default MainLanding;
